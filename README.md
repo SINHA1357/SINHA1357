@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinha1357&label=Profile%20views&color=0e75b6&style=flat" alt="sinha1357" /> </p>
 
-- ⚡ Fun fact **Let's have fun**
+- ⚡**Let's have fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
