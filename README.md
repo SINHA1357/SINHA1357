@@ -1,3 +1,4 @@
+![image](https://github.com/SINHA1357/SINHA1357/assets/142193461/5b178787-8032-48c5-b4ca-ea4acfaeb4b0)
 
 <h1 align="center">Hi..👋, I'm Soumyadeep Sinha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
