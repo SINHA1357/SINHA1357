@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about software development and enjo
 ## My GitHub Stats
 
 ![SINHA1357's GitHub stats](https://github-readme-stats.vercel.app/api?username=SINHA1357&show_icons=true&theme=radical)
-<img align="right" alt="coding" width="350" height="220" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="320" height="190" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ## Top Languages
 
