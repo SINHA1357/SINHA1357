@@ -2,13 +2,13 @@
 # Hi there, I'm SINHA1357 👋
 
 Welcome to my GitHub profile! I'm passionate about software development and enjoy working on a variety of projects.
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning advanced algorithms and data structures
 - 👯 I’m looking to collaborate on innovative tech projects
 - 💬 Ask me about web development, Python, and JavaScript
 - ⚡ Fun fact: I love hiking and exploring the great outdoors
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ## My GitHub Stats
 
