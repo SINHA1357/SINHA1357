@@ -1,7 +1,7 @@
 ![image](https://media.licdn.com/dms/image/v2/D5616AQF8ILSyJpVbFw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1709441932073?e=1745452800&v=beta&t=-lv7N8GoPDdPdPbGYHkLP3hL-1Qx48TtfhjIDXpHHPs)
 # Hi there, I'm SINHA1357 👋
 
-Welcome to my GitHub profile! I'm passionate about software development and enjoy working on a variety of projects. Here's a little bit about me:
+Welcome to my GitHub profile! I'm passionate about software development and enjoy working on a variety of projects.
 
 - 🌱 I’m currently learning advanced algorithms and data structures
 - 👯 I’m looking to collaborate on innovative tech projects
