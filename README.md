@@ -7,10 +7,6 @@ Welcome to my GitHub profile! I'm passionate about software development and enjo
 - 💬 Ask me about web development, Python, and JavaScript
 - ⚡ Fun fact: I love hiking and exploring the great outdoors
 
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SINHA1357&layout=compact&theme=radical)
-
 ## Connect with me
 
 <a href="https://www.linkedin.com/in/sdeepsoumya103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sdeepsoumya103/" height="30" width="40" /></a>
